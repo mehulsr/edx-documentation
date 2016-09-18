@@ -1,0 +1,4 @@
+A new section that describes how to set up different sites for an Open edX
+installation is now available in the *Installing, Configuring, and Running an
+Open edX Site* guide. For more information, see :ref:`installation:Configuring
+Open edX Sites`.

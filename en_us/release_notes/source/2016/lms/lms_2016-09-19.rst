@@ -1,0 +1,9 @@
+This release includes the following accessibility updates to the LMS
+registration and sign in pages.
+
+* New users who register an account while using a screen reader can now access
+  the edX terms and services page.  (`jira:AC-578`_)
+
+* On both the registration and sign in pages, the contrast has been increased
+  for the text that appears below the **Email** and **Password** fields.
+  (`jira:AC-577`_)

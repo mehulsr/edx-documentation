@@ -4,7 +4,8 @@
 Taking a Timed Exam
 ####################
 
-This section describes timed exams and explains how to complete them.
+This section describes timed exams and explains how to complete them. Read :ref:`faqs` for
+some common doubts around these exams.
 
 .. contents::
  :local:

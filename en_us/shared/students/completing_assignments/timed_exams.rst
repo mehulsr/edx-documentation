@@ -87,7 +87,7 @@ Requesting Additional Time
 **************************
 
 You can request additional time to complete a timed exam. Course teams and
-instructors can increase the time allowed for individual learners to accomodate specific needs.
+instructors can increase the time allowed for individual learners to accommodate specific needs.
 
 You can only request additional time before you begin a timed exam. After you
 start an exam, the course team cannot allow more time for that exam attempt.
@@ -95,3 +95,19 @@ start an exam, the course team cannot allow more time for that exam attempt.
 Course teams decide whether or not to grant additional time
 based on the criteria that they choose. You can get information about the
 availability of additional time from your course team.
+
+.. _faqs:
+
+****
+FAQs
+****
+
+#. **What happens to the test if the student doesn't finish the exam on time? Is it still saved to their progress bar or just shown as incomplete?**
+
+   When the time runs out, the course page automatically submits your exam. The exam questions are no longer available after the exam is submitted. Any problems that have been completed are graded and applied to the progress bar. Any problems that have not been completed receive no points.
+
+#. **Could a student go back into that exam and re-take it after the instructor adds extra time? What is the workflow for that?**
+
+   You can only request additional time **before** you start a timed exam. If you have already started an exam or taken it and run out of time, the workflow is as follows - the course team must delete your exam attempt and allot you additional time. Following this, you must take the exam again.
+
+

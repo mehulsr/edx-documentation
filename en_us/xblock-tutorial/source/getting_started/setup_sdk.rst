@@ -69,6 +69,8 @@ Then create the virtual environment in your ``xblock_development`` directory.
 .. include:: ../reusable/clone_sdk.rst
 
 When the requirements are installed, you are ready to :ref:`create your first
-XBlock <Create Your First XBlock>`. Make sure that you are in the ``xblock_development`` directory. This directory contains the ``venv`` and ``xblock-sdk`` directories.
+XBlock <Create Your First XBlock>`. 
+
+**Note:** Make sure that you have performed **Step 4** of **Section 3.2.3**, and are now in the ``xblock_development`` directory. This directory contains the ``venv`` and ``xblock-sdk`` directories.
 
 .. include:: ../../../links/links.rst 
